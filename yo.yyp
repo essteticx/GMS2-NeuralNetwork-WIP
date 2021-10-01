@@ -1,7 +1,7 @@
 {
   "resources": [
     {"id":{"name":"objNNController","path":"objects/objNNController/objNNController.yy",},"order":0,},
-    {"id":{"name":"scp173_blt","path":"rooms/scp173_blt/scp173_blt.yy",},"order":0,},
+    {"id":{"name":"test","path":"rooms/test/test.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -18,7 +18,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"scp173_blt","path":"rooms/scp173_blt/scp173_blt.yy",},},
+    {"roomId":{"name":"test","path":"rooms/test/test.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
