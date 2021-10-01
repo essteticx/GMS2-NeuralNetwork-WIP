@@ -14,8 +14,8 @@ nn[2,0] = 0;
 
 a=nn[0,0]>nn[0,1];
 
-for(var i=0; i<1; i++){
-	for(var h=0; h<2; h++){
+for(var i=0; i<array_length_2d(nn, 0); i++){
+	for(var h=0; h<array_length_2d(nn, 1); h++){
 		min_[h,i] = random_range(-1,1);
 		show_debug_message(string(min_[h,i]) + " / pos / " + string(h) + " / " + string(i));
 	}
